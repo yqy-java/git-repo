@@ -5,8 +5,6 @@ public class Qwe {
 	public static void main(String[] args) {
 		System.out.println(5);
 		System.out.println(7);
-		//44466666
-		//555666647777
-		//新建分支2.3
+		//新建分支
 	}
 }
