@@ -6,6 +6,6 @@ public class Qwe {
 		System.out.println(5);
 		System.out.println(7);
 		//44466666
-		//5556666
+		//555666647777
 	}
 }
